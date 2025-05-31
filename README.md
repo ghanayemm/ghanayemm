@@ -10,7 +10,7 @@ I also have strong skills in **MS SQL Server** database management.
 
 ## 📫 Contact Me
 
-[![LinkedIn Badge](https://img.shields.io/badge/-Mohammed%20Ghanayem-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohammed-ghanayem-28b7a8366)](https://www.linkedin.com/in/mohammed-ghanayem-28b7a8366)
+[![LinkedIn Badge](https://img.shields.io/badge/-Mohammed%20Ghanayem-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohammed-ghanayem-28b7a8366)](https://www.linkedin.com/in/mohammed-ghanayem-28b7a8366)  
 [![Email Badge](https://img.shields.io/badge/-ghanayem.dev@proton.me-c14438?style=flat-square&logo=protonmail&logoColor=white&link=mailto:ghanayem.dev@proton.me)](mailto:ghanayem.dev@proton.me)
 
 ---
@@ -31,6 +31,6 @@ I also have strong skills in **MS SQL Server** database management.
 
 ## 📊 GitHub Stats
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=mohammed-ghanayem&count_private=true&show_icons=true&include_all_commits=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=ghanayemm&count_private=true&show_icons=true&include_all_commits=true)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=mohammed-ghanayem)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ghanayemm)
