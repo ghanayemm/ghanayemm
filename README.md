@@ -2,9 +2,7 @@
 
 # 👨‍💻 Mohammad Ghanayem
 
-Hello! I’m Mohammad Ghanayem, a software developer specialized in building web applications using **ASP.NET MVC** with **C#**.  
-I have experience in front-end development using **HTML**, **CSS**, and **JavaScript**, as well as desktop applications using **Windows Forms**.  
-I also have strong skills in **MS SQL Server** database management.
+Hello! I’m Mohammad Ghanayem, a web developer passionate about building modern and impactful software solutions. I’m always excited to collaborate on real-world projects and explore innovative ideas that solve real problems.
 
 ---
 
