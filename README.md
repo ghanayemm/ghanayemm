@@ -53,14 +53,14 @@
 ## 🛠 Languages and Tools
 <p align="center">
     <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" title="C#" target="_blank"><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/></a>
-    <a href="https://dotnet.microsoft.com/apps/aspnet" title="ASP.NET Core MVC" target="_blank"><img src="https://img.shields.io/badge/ASP.NET_Core_MVC-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET Core MVC"/></a>
+    <a href="https://dotnet.microsoft.com/apps/aspnet" title="ASP.NET Core" target="_blank"><img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET Core"/></a>
     <a href="https://www.w3.org/TR/html5/" title="HTML5" target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/></a>
     <a href="https://www.w3.org/Style/CSS/" title="CSS3" target="_blank"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/></a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/></a>
     <a href="https://getbootstrap.com/" title="Bootstrap" target="_blank"><img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/></a>
     <a href="https://reactjs.org/" title="React" target="_blank"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/></a>
     <a href="https://www.microsoft.com/en-us/sql-server" title="Microsoft SQL Server" target="_blank"><img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="Microsoft SQL Server"/></a>
-    <a href="https://dotnet.microsoft.com/en-us/apps/desktop/winforms" title="Windows Forms" target="_blank"><img src="https://img.shields.io/badge/Windows_Forms-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Windows Forms"/></a>
+    <a href="https://dotnet.microsoft.com/en-us/apps/desktop/winforms" title="WinForms" target="_blank"><img src="https://img.shields.io/badge/WinForms-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="WinForms"/></a>
     <a href="https://git-scm.com/" title="Git" target="_blank"><img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" alt="Git"/></a>
     <a href="https://github.com/" title="GitHub" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
